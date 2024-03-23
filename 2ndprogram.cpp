@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a,b,d;
+    int a;
     cout<<"Enter a number to check if it is positive, negative or zero:";
     cin >>a;
     if(a>0)
